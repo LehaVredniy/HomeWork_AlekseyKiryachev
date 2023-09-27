@@ -88,4 +88,4 @@
 
 
 ## Заключение
-Полную инструкцию функционала Markdown мы можем найти на Githab в [Markdown Cheatsheet](githab.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+Полную инструкцию функционала Markdown мы можем найти на Githab в [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet?ysclid=ln1pxo64la145980007).
